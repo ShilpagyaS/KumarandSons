@@ -1,0 +1,337 @@
+
+.img-color-icon,
+.img-icon,
+.img-of-flower {
+  position: absolute;
+  top: 70px;
+  left: 568px;
+  width: 670px;
+  height: 528px;
+  object-fit: cover;
+}
+.img-color-icon,
+.img-icon {
+  left: 168px;
+  width: 400px;
+}
+.img-color-icon {
+  top: 360px;
+  left: 257px;
+  width: 223px;
+  height: 58px;
+}
+.about-us {
+  position: absolute;
+  top: 681px;
+  left: 624px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 179px;
+}
+.landing-page-child {
+  position: absolute;
+  top: 742.5px;
+  left: 623.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 159px;
+  height: 1px;
+}
+.img-buckat-icon {
+  position: absolute;
+  top: 818px;
+  left: 168px;
+  width: 493px;
+  height: 303px;
+  object-fit: cover;
+}
+.professional-customer-service {
+  position: absolute;
+  top: 818px;
+  left: 693px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 528px;
+  height: 57px;
+}
+.kumar-and-sons {
+  margin: 0;
+}
+.kumar-and-sons-container {
+  position: absolute;
+  top: 875px;
+  left: 693px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 588px;
+  height: 246px;
+}
+.crw-1200h-600-1-1 {
+  position: absolute;
+  top: 1184px;
+  left: 702px;
+  width: 489px;
+  height: 266px;
+  object-fit: cover;
+}
+.satisfaction-guaranteed {
+  position: absolute;
+  top: 1184px;
+  left: 158px;
+  font-size: var(--font-size-5xl);
+}
+.we-understand-that-container {
+  position: absolute;
+  top: 1150px;
+  left: 120px;
+  font-size: var(--font-size-lg);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 544px;
+  height: 216px;
+}
+.gift-wrapping {
+  position: absolute;
+  top: 1512px;
+  left: 702px;
+  font-size: var(--font-size-5xl);
+}
+.crw-1200h-600-2-1 {
+  position: absolute;
+  top: 1512px;
+  left: 123px;
+  width: 532px;
+  height: 266px;
+  object-fit: cover;
+}
+.instagram {
+  position: absolute;
+  top: 1858px;
+  left: 600px;
+  font-size: var(--font-size-17xl);
+  width: 179px;
+}
+.landing-page-inner,
+.landing-page-item {
+  position: absolute;
+  top: 1916.5px;
+  left: 600px;
+  width: 174px;
+  height: 1px;
+}
+.landing-page-inner {
+  top: 2082px;
+  width: 176px;
+}
+.contact-us {
+  position: absolute;
+  top: 2025px;
+  left: 600px;
+  font-size: var(--font-size-17xl);
+}
+.get-in-touch {
+  position: absolute;
+  top: 2127px;
+  left: 627px;
+}
+.contact-us-for,
+.need-more-help {
+  position: absolute;
+  top: 2183px;
+  left: 409px;
+  font-size: var(--font-size-lg);
+}
+.contact-us-for {
+  top: 2245px;
+  left: 520px;
+}
+.wh-link {
+  position: absolute;
+  top: 2310px;
+  left: 547px;
+  background-color: #d9d9d9;
+  width: 321px;
+  height: 44px;
+}
+.message-us-on {
+  position: absolute;
+  top: 2316px;
+  left: 612px;
+  display: inline-block;
+  width: 242px;
+  height: 31px;
+}
+.wh-1-icon {
+  position: absolute;
+  top: 2315px;
+  left: 561px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.kumar-sons {
+  position: absolute;
+  top: 2368px;
+  left: 639px;
+}
+.kumar-stores-andherdeo {
+  position: absolute;
+  top: 2423px;
+  left: 491px;
+}
+.span {
+  text-decoration: underline;
+}
+.a {
+  color: inherit;
+}
+.videhkumarnsonsin {
+  position: absolute;
+  top: 2478px;
+  left: 578px;
+  color: inherit;
+}
+.enhance-your-corporate-container {
+  position: absolute;
+  top: 1569px;
+  left: 704px;
+  font-size: var(--font-size-lg);
+}
+.home {
+  position: absolute;
+  top: 54px;
+  left: 406px;
+  
+}
+.offikraft,
+.puma,
+.rare-rabit {
+  position: absolute;
+  top: 54px;
+  left: 550px;
+ 
+}
+.offikraft,
+.rare-rabit {
+  left: 691px;
+}
+.offikraft {
+  left: 886px;
+  color: black;
+}
+.copyright-2023,
+.instrgramcom {
+  position: absolute;
+  top: 3222px;
+  left: 440px;
+  
+}
+.instrgramcom {
+  top: 1952px;
+  left: 600px;
+  
+}
+.landing-page {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3345px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-khmer);
+}
+.map
+{
+  position: absolute;
+  top: 2700px;
+  left: 50px;
+  color: inherit;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: gray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: Gray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/*  Other Pages Css */
+
+.screenshot-14-1 {
+  position: absolute;
+  top: 100px;
+  left: 70px;
+  width: 1300px;
+  height: 220.66px;
+  object-fit: cover;
+}
+.desktop-1-child,
+.rare-rabit1 {
+  position: absolute;
+  top: 420px;
+  left: 630px;
+}
+.desktop-1-child {
+  top: 480px;
+  left: 609px;
+  width: 222px;
+  height: 2.05px;
+}
+.download-pdf,
+.our-product {
+  position: absolute;
+  top: 500px;
+  left: 629px;
+  font-size: 32px;
+}
+.download-pdf {
+  top: 560px;
+  left: 617px;
+  font-size: 30px;
+}
+.desktop-1 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+
+.desktop-1 {
+  position: relative;
+  width: 90%;
+  height: 1251px;
+  text-align: left;
+  font-size: 36px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+.pdf1
+{
+  margin-top: 700px;
+  margin-left: 300px;
+}
+
+.rare-rabit2 {
+  position: absolute;
+  top: 420px;
+  left: 650px;
+}
+
+.container
+{
+    margin-top: 54px;
+}
